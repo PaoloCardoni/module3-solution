@@ -6,7 +6,7 @@ body {
 
 /** HEADER **/
 #header-nav {
-  background-color: light-gray;
+  background-color: #cccccc;
   border-radius: 0;
   border: 0;
 }
@@ -76,14 +76,9 @@ body {
   /* Header */
    .navbar-brand h1 {
     padding-top: 10px;
-    height: 200px;
   }
   /* End Header */  
   /* Home Page */
-  #menu-tile {
-    width: 360px;
-    margin: 0 auto 15px;
-  }
   /* End Home Page */
 }
 
@@ -92,15 +87,10 @@ body {
   /* Header */
    .navbar-brand h1 {
     padding-top: 10px;
-    height: 100px;
   }
   /* End Header */
 
   /* Home Page */
-  #menu-tile {
-    width: 360px;
-    margin: 0 auto 15px;
-  }
   /* End Home Page */
 }
 
@@ -109,15 +99,10 @@ body {
     /* Header */
    .navbar-brand h1 {
     padding-top: 10px;
-    height: 100px;
   }
   /* End Header *
   
   /* Home Page */
-  #menu-tile {
-    width: 360px;
-    margin: 0 auto 15px;
-  }
   /* End Home Page */
 }
 
