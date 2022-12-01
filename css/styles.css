@@ -12,7 +12,7 @@ body {
   margin: auto;
 }
 .navbar-brand {
-  padding-top: 15px;
+  padding-top: 10px;
 }
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
@@ -48,7 +48,6 @@ body {
   width: 100%;
   margin-bottom: 15px;
   position: relative;
-  border: 1px solid #3F0C1F;
   overflow: hidden;
 }
 #menu-tile:hover {
@@ -74,6 +73,10 @@ body {
 .menu-item-details {
   font-size: .9em;
   font-style: italic;
+  color: black;
+  background-color: lightgray;
+  position: relative;
+  text-align: left;
 }
 /* END HOME PAGE */
 
